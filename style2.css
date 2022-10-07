@@ -1,1 +1,5 @@
-
+body{
+    background-image: url(./img/spongebobgif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
